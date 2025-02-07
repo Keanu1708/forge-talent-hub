@@ -9,14 +9,14 @@ const Header = () => {
           <div className="flex items-center">
             <a href="/" className="text-2xl font-bold text-primary">
               <img 
-                src="/4-removebg-preview (1).png"
+                src="./public/forge_logo.jpg"
                 alt="Forge Talent Logo"
                 height="44"
                 width="150"
               />
             </a>
           </div>
-
+           
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
             <a href="/" className="text-secondary hover:text-primary transition-colors">
